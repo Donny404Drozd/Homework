@@ -1,5 +1,4 @@
 def difference(*a):
-
     if not a:
         return 0
     r = max(a) - min(a)
